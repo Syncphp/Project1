@@ -1,0 +1,1194 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/b03c9d64-256d-5d7b-8551-8e823e5693a5",
+      "url": "https://www.nytimes.com/2021/02/23/opinion/covid-vaccines-transmission.html",
+      "id": 100000007614730,
+      "asset_id": 100000007614730,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-24 10:37:28",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Disease Rates",
+      "column": null,
+      "byline": "By Angela L. Rasmussen",
+      "type": "Article",
+      "title": "Does the Vaccine Stop Transmission?",
+      "abstract": "How to understand the difference between vaccination to prevent Covid-19 and shots to halt infection.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vaccines that do not prevent virus infection can still stop epidemics.",
+          "copyright": "Karen Ducey/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/23rasmussen/23rasmussen-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/23rasmussen/merlin_183650718_46cbc8d0-564c-4547-b9f4-0f0cc97a6735-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/23rasmussen/merlin_183650718_46cbc8d0-564c-4547-b9f4-0f0cc97a6735-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/312205bb-6aa3-5269-bfb6-36289ce2a80e",
+      "url": "https://www.nytimes.com/2021/02/23/obituaries/lawrence-ferlinghetti-dead.html",
+      "id": 100000006667276,
+      "asset_id": 100000006667276,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-24 11:43:43",
+      "section": "Books",
+      "subsection": "",
+      "nytdsection": "books",
+      "adx_keywords": "Poetry and Poets;Books and Literature;Book Trade and Publishing;Deaths (Obituaries);Ferlinghetti, Lawrence;City Lights Bookstore;San Francisco (Calif)",
+      "column": null,
+      "byline": "By Jesse McKinley",
+      "type": "Article",
+      "title": "Lawrence Ferlinghetti, Poet Who Nurtured the Beats, Dies at 101",
+      "abstract": "An unapologetic proponent of \u201cpoetry as insurgent art,\u201d he was also a publisher and the owner of the celebrated San Francisco bookstore City Lights.",
+      "des_facet": [
+        "Poetry and Poets",
+        "Books and Literature",
+        "Book Trade and Publishing",
+        "Deaths (Obituaries)"
+      ],
+      "org_facet": [
+        "City Lights Bookstore"
+      ],
+      "per_facet": [
+        "Ferlinghetti, Lawrence"
+      ],
+      "geo_facet": [
+        "San Francisco (Calif)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e926d355-e4fc-5406-900c-f67a8ece465e",
+      "url": "https://www.nytimes.com/2021/02/22/movies/frances-mcdormand-nomadland.html",
+      "id": 100000007588566,
+      "asset_id": 100000007588566,
+      "source": "New York Times",
+      "published_date": "2021-02-22",
+      "updated": "2021-02-24 08:21:58",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Actors and Actresses;Movies;Content Type: Personal Profile;McDormand, Frances",
+      "column": null,
+      "byline": "By Kyle Buchanan",
+      "type": "Article",
+      "title": "What Frances McDormand Would (and Wouldn\u2019t) Give to \u2018Nomadland\u2019",
+      "abstract": "The acclaimed film required her to draw from a life she prefers to keep private. So when the director asked to cast her family, too, the star pondered whether to cross a personal line.",
+      "des_facet": [
+        "Actors and Actresses",
+        "Movies",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "McDormand, Frances"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The actress said that when she first began talking with the \u201cNomadland\u201d director, \u201cI was like, \u2018Man, I just want to be relevant. Do you think I\u2019m relevant?\u2019\u201d",
+          "copyright": "Joshua James Richards/Searchlight Pictures and Hulu",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/arts/22frances-mcdormand/22frances-mcdormand-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/arts/22frances-mcdormand/22frances-mcdormand-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/arts/22frances-mcdormand/22frances-mcdormand-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e63c3c4e-ae0d-57ee-9f21-de8edaa3ae6c",
+      "url": "https://www.nytimes.com/2021/02/23/health/coronavirus-california-variant.html",
+      "id": 100000007619583,
+      "asset_id": 100000007619583,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-24 09:47:15",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus (2019-nCoV);Disease Rates;Research;Genetics and Heredity;your-feed-science;your-feed-healthcare;Chiu, Charles;California;San Francisco (Calif)",
+      "column": null,
+      "byline": "By Carl Zimmer",
+      "type": "Article",
+      "title": "Studies Examine Variant Surging in California, and the News Isn\u2019t Good",
+      "abstract": "Two studies confirm that a new coronavirus mutant in California is more contagious, although the scale of its threat is unclear.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Research",
+        "Genetics and Heredity",
+        "your-feed-science",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Chiu, Charles"
+      ],
+      "geo_facet": [
+        "California",
+        "San Francisco (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A medical team intubated a Covid-19 patient at Marian Regional Medical Center in Santa Maria, Calif., this month.\u00a0",
+          "copyright": "Daniel Dreifuss for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/science/23virus-CAvariant1/23virus-CAvariant1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/science/23virus-CAvariant1/23virus-CAvariant1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/science/23virus-CAvariant1/23virus-CAvariant1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5ba0e0a4-4be5-5c16-8e5d-ce9c0328dd97",
+      "url": "https://www.nytimes.com/2021/02/23/opinion/us-politics-texas-mars.html",
+      "id": 100000007620145,
+      "asset_id": 100000007620145,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-24 04:37:12",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Weather;Global Warming;Wind Power;United States Politics and Government;Mars (Planet);Abbott, Gregory W (1957- );Texas",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "Can You Believe This Is Happening in America?",
+      "abstract": "We used to dream big. Now we\u2019re increasingly thinking short term.",
+      "des_facet": [
+        "Weather",
+        "Global Warming",
+        "Wind Power",
+        "United States Politics and Government",
+        "Mars (Planet)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Abbott, Gregory W (1957- )"
+      ],
+      "geo_facet": [
+        "Texas"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/23friedman/23friedman-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/23friedman/merlin_157866885_1276f323-efa9-4cb0-858f-8f2bed5676ef-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/23friedman/merlin_157866885_1276f323-efa9-4cb0-858f-8f2bed5676ef-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d47f2bd1-9815-5e3b-85e1-1fdbca2c2035",
+      "url": "https://www.nytimes.com/2021/02/23/business/economy/economics-women-gender-bias.html",
+      "id": 100000007614965,
+      "asset_id": 100000007614965,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-23 13:04:19",
+      "section": "Business",
+      "subsection": "Economy",
+      "nytdsection": "business",
+      "adx_keywords": "Discrimination;Women and Girls;Race and Ethnicity;Economics (Theory and Philosophy);Research;Hiring and Promotion;Modestino, Alicia Sasser;Wolfers, Justin",
+      "column": null,
+      "byline": "By Ben Casselman",
+      "type": "Article",
+      "title": "For Women in Economics, the Hostility Is Out in the Open",
+      "abstract": "Studies have found that the field is plagued by a singular problem of gender bias. The latest evidence comes from the types of questions posed at seminars.",
+      "des_facet": [
+        "Discrimination",
+        "Women and Girls",
+        "Race and Ethnicity",
+        "Economics (Theory and Philosophy)",
+        "Research",
+        "Hiring and Promotion"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Modestino, Alicia Sasser",
+        "Wolfers, Justin"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The American Economic Association conference in San Diego early last year. New research details how men and women are treated differently when they make economic presentations.",
+          "copyright": "Sandy Huffaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/us/23econ-women-alt/23econ-women-alt-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/us/23econ-women-alt/23econ-women-alt-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/us/23econ-women-alt/23econ-women-alt-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7d40c1a1-a30f-5900-85b4-0d6107fb66ad",
+      "url": "https://www.nytimes.com/2021/02/23/health/elderly-prediabetes-selvin.html",
+      "id": 100000007613357,
+      "asset_id": 100000007613357,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-24 09:49:17",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-science;Diabetes;Tests (Medical);Elderly;Diet and Nutrition;your-feed-health;Research;Selvin, Elizabeth;American Diabetes Assn;JAMA Internal Medicine (Journal)",
+      "column": null,
+      "byline": "By Paula Span",
+      "type": "Article",
+      "title": "How Meaningful Is Prediabetes for Older Adults?",
+      "abstract": "A new study indicates that the condition might be less of a worry than once believed.",
+      "des_facet": [
+        "your-feed-science",
+        "Diabetes",
+        "Tests (Medical)",
+        "Elderly",
+        "Diet and Nutrition",
+        "your-feed-health",
+        "Research"
+      ],
+      "org_facet": [
+        "American Diabetes Assn",
+        "JAMA Internal Medicine (Journal)"
+      ],
+      "per_facet": [
+        "Selvin, Elizabeth"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jenna Schoenefeld for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/22/science/22SCI-SPAN-promo/22SCI-SPAN-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/22/science/22SCI-SPAN-promo/22SCI-SPAN-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/22/science/22SCI-SPAN-promo/22SCI-SPAN-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/df122551-225a-556c-b9d6-02165261628a",
+      "url": "https://www.nytimes.com/2021/02/23/us/vermont-gun-range-pawlet-zoning.html",
+      "id": 100000007577648,
+      "asset_id": 100000007577648,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-24 08:10:07",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Firearms;Gun Control;Zoning;Real Estate and Housing (Residential);Threats and Threatening Messages;Right-Wing Extremism and Alt-Right;Land Use Policies;Banyai, Daniel;Pawlet (Vt)",
+      "column": null,
+      "byline": "By Ellen Barry",
+      "type": "Article",
+      "title": "A Bristling Standoff Rattles Gun-Friendly Vermont",
+      "abstract": "In Pawlet, Vt., where a landowner opened a tactical weapons training site, a zoning dispute has escalated into something more dangerous.",
+      "des_facet": [
+        "Firearms",
+        "Gun Control",
+        "Zoning",
+        "Real Estate and Housing (Residential)",
+        "Threats and Threatening Messages",
+        "Right-Wing Extremism and Alt-Right",
+        "Land Use Policies"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Banyai, Daniel"
+      ],
+      "geo_facet": [
+        "Pawlet (Vt)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A shooting range and tactical course at Slate Ridge.",
+          "copyright": "Hilary Swift for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/18/us/00Vermont8-promo/00Vermont8-promo-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/18/us/00Vermont8-promo/00Vermont8-promo-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/18/us/00Vermont8-promo/00Vermont8-promo-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fabe05e2-ad7b-5b68-9db0-3c0a697a64cf",
+      "url": "https://www.nytimes.com/2021/02/22/travel/mongolia-eagle-hunters.html",
+      "id": 100000007611667,
+      "asset_id": 100000007611667,
+      "source": "New York Times",
+      "published_date": "2021-02-22",
+      "updated": "2021-02-23 09:30:33",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "Horses;Kazakhs (Ethnic Group);Eagles (Birds);Children and Childhood;Hunting and Trapping;Rural Areas;Photography;Travel and Vacations;Mongolia",
+      "column": null,
+      "byline": "By Claire Thomas",
+      "type": "Article",
+      "title": "On Horseback Among the Eagle Hunters and Herders of the Mongolian Altai",
+      "abstract": "Deep in the Altai Mountains, where Russia, China, Kazakhstan and Mongolia meet, Kazakh people have for centuries developed and nurtured a special bond with golden eagles.",
+      "des_facet": [
+        "Horses",
+        "Kazakhs (Ethnic Group)",
+        "Eagles (Birds)",
+        "Children and Childhood",
+        "Hunting and Trapping",
+        "Rural Areas",
+        "Photography",
+        "Travel and Vacations"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Mongolia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Claire Thomas",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/travel/22travel-mongolia-promo/22travel-mongolia-32-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/travel/22travel-mongolia-promo/merlin_182371089_be2d0d8a-1009-4143-afb7-b1ffbaa4ee08-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/travel/22travel-mongolia-promo/merlin_182371089_be2d0d8a-1009-4143-afb7-b1ffbaa4ee08-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d6c29105-728e-5c89-b193-78ab13919830",
+      "url": "https://www.nytimes.com/2021/02/23/nyregion/new-jersey-lucia-declerck-covid.html",
+      "id": 100000007618331,
+      "asset_id": 100000007618331,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-24 11:28:06",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Coronavirus (2019-nCoV);Nursing Homes;Vaccination and Immunization;Content Type: Personal Profile;DeClerck, Lucia (1916- );New Jersey",
+      "column": null,
+      "byline": "By Tracey Tully",
+      "type": "Article",
+      "title": "This 105-Year-Old Beat Covid. She Credits Gin-Soaked Raisins.",
+      "abstract": "Lucia DeClerck, the oldest resident of her New Jersey nursing home, tested positive for the virus on her 105th birthday, one day after her second vaccine shot.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Nursing Homes",
+        "Vaccination and Immunization",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "DeClerck, Lucia (1916- )"
+      ],
+      "geo_facet": [
+        "New Jersey"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucia DeClerck, 105, said her secret to a long life was simple. \u201cPrayer. Prayer. Prayer,\u201d she said. \u201cOne step at a time. No junk food.\u201d",
+          "copyright": "Michael Neiman",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/nyregion/23njvirus-olderpatient/23njvirus-olderpatient-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/nyregion/23njvirus-olderpatient/23njvirus-olderpatient-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/nyregion/23njvirus-olderpatient/23njvirus-olderpatient-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d5d8dbf2-d044-59e5-a964-2214c814aae1",
+      "url": "https://www.nytimes.com/2021/02/22/opinion/texas-electricity-storm.html",
+      "id": 100000007617934,
+      "asset_id": 100000007617934,
+      "source": "New York Times",
+      "published_date": "2021-02-22",
+      "updated": "2021-02-23 00:41:54",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Electric Light and Power;Regulation and Deregulation of Industry;Green New Deal;Cruz, Ted;Texas",
+      "column": null,
+      "byline": "By Paul Krugman",
+      "type": "Article",
+      "title": "Et Tu, Ted? Why Deregulation Failed",
+      "abstract": "Even Senator Cruz realizes kilowatt-hours aren\u2019t like avocados.",
+      "des_facet": [
+        "Electric Light and Power",
+        "Regulation and Deregulation of Industry",
+        "Green New Deal"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Cruz, Ted"
+      ],
+      "geo_facet": [
+        "Texas"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Justin Sullivan/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/22krugman-print/22krugman-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/22krugman-print/merlin_184095741_5f32e73d-08d1-4205-a3f7-a633c3ea8907-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/22krugman-print/merlin_184095741_5f32e73d-08d1-4205-a3f7-a633c3ea8907-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8733cdb5-31e0-55df-92ff-7cb7edab131d",
+      "url": "https://www.nytimes.com/2021/02/22/well/live/snow-ice-safety.html",
+      "id": 100000007610533,
+      "asset_id": 100000007610533,
+      "source": "New York Times",
+      "published_date": "2021-02-22",
+      "updated": "2021-02-23 01:05:37",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Content Type: Service;Snow and Snowstorms;Ice;Winter (Season);Shoes and Boots;Falls",
+      "column": null,
+      "byline": "By Jane E. Brody",
+      "type": "Article",
+      "title": "How to Walk Safely in the Snow, Ice and Slush",
+      "abstract": "Walk like a penguin: Turn your feet slightly outward and take short, flat-footed steps.",
+      "des_facet": [
+        "Content Type: Service",
+        "Snow and Snowstorms",
+        "Ice",
+        "Winter (Season)",
+        "Shoes and Boots",
+        "Falls"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gracia Lam",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/science/22SCI-BRODY-ICE/22SCI-BRODY-ICE-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/science/22SCI-BRODY-ICE/22SCI-BRODY-ICE-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/science/22SCI-BRODY-ICE/22SCI-BRODY-ICE-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/721d19cc-0af3-52c2-8b73-0f620f944edf",
+      "url": "https://www.nytimes.com/2021/02/22/opinion/bon-appetit-cancel-culture.html",
+      "id": 100000007618214,
+      "asset_id": 100000007618214,
+      "source": "New York Times",
+      "published_date": "2021-02-22",
+      "updated": "2021-02-23 09:13:20",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Discrimination;Jews and Judaism;Race and Ethnicity;News and News Media;Colleges and Universities;Conde Nast Publications Inc;Bon Appetit (Magazine)",
+      "column": null,
+      "byline": "By Bret Stephens",
+      "type": "Article",
+      "title": "Woke Me When It\u2019s Over",
+      "abstract": "In the humorless world of Woke, the satire is never funny and the statute of limitations never expires, even when it comes to hamantaschen.",
+      "des_facet": [
+        "Discrimination",
+        "Jews and Judaism",
+        "Race and Ethnicity",
+        "News and News Media",
+        "Colleges and Universities"
+      ],
+      "org_facet": [
+        "Conde Nast Publications Inc",
+        "Bon Appetit (Magazine)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Joyce Dopkeen/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/22/opinion/22Stephens-lead-new/22Stephens-lead-new-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/22/opinion/22Stephens-lead-new/22Stephens-lead-new-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/22/opinion/22Stephens-lead-new/22Stephens-lead-new-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a436fda2-5e86-598c-8bbc-f67c7b343707",
+      "url": "https://www.nytimes.com/2021/02/22/opinion/us-caregivers-biden.html",
+      "id": 100000007602196,
+      "asset_id": 100000007602196,
+      "source": "New York Times",
+      "published_date": "2021-02-22",
+      "updated": "2021-02-24 01:12:48",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Elder Care;Home Health Care;Family Leaves;Elderly;Coronavirus (2019-nCoV);United States Politics and Government;Biden, Joseph R Jr;United States",
+      "column": null,
+      "byline": "By Kate Washington",
+      "type": "Article",
+      "title": "50 Million Americans Are Unpaid Caregivers. We Need Help.",
+      "abstract": "Biden must make good on his promise to support families with sick loved ones.",
+      "des_facet": [
+        "Elder Care",
+        "Home Health Care",
+        "Family Leaves",
+        "Elderly",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Shestock/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/22Washington/22Washington-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/22Washington/22Washington-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/22Washington/22Washington-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5c31082c-cc30-5e18-9995-52697b47baaa",
+      "url": "https://www.nytimes.com/2021/02/23/health/coronavirus-mental-health-teens.html",
+      "id": 100000007614030,
+      "asset_id": 100000007614030,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-24 09:18:53",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus (2019-nCoV);Teenagers and Adolescence;Parenting;Emergency Medical Treatment;Hospitals;Habits and Routines (Behavior);Mental Health and Disorders;Therapy and Rehabilitation;Emotions;Grief (Emotion);Psychiatry and Psychiatrists;Suicides and Suicide Attempts;your-feed-health;your-feed-science;Asheville (NC);Hendersonville (NC);Columbus (Ohio);San Francisco Bay Area (Calif)",
+      "column": null,
+      "byline": "By Benedict Carey",
+      "type": "Article",
+      "title": "For Some Teens, It\u2019s Been a Year of Anxiety and Trips to the E.R.",
+      "abstract": "During the pandemic, suicidal thinking is up. And families find that hospitals can\u2019t handle adolescents in crisis.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Teenagers and Adolescence",
+        "Parenting",
+        "Emergency Medical Treatment",
+        "Hospitals",
+        "Habits and Routines (Behavior)",
+        "Mental Health and Disorders",
+        "Therapy and Rehabilitation",
+        "Emotions",
+        "Grief (Emotion)",
+        "Psychiatry and Psychiatrists",
+        "Suicides and Suicide Attempts",
+        "your-feed-health",
+        "your-feed-science"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Asheville (NC)",
+        "Hendersonville (NC)",
+        "Columbus (Ohio)",
+        "San Francisco Bay Area (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lisa, a mother of three in Asheville, N.C., said that months of virtual classes and social isolation had changed her extroverted 13-year-old son \u201cin profound ways I would never have anticipated.\u201d",
+          "copyright": "Jacob Biba for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/science/00virus-adolescents-mental-health1/00virus-adolescents-mental-health1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/science/00virus-adolescents-mental-health1/00virus-adolescents-mental-health1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/science/00virus-adolescents-mental-health1/00virus-adolescents-mental-health1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e659ceb5-5762-571d-994c-e19c4df948b7",
+      "url": "https://www.nytimes.com/2021/02/20/opinion/sunday/endocrine-disruptors-sperm.html",
+      "id": 100000007613959,
+      "asset_id": 100000007613959,
+      "source": "New York Times",
+      "published_date": "2021-02-20",
+      "updated": "2021-02-23 01:25:30",
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "nytdsection": "opinion",
+      "adx_keywords": "Reproduction (Biological);Infertility;Sperm;Endocrine Gland;United States Politics and Government;Regulation and Deregulation of Industry;Chemicals;Swan, Shanna H;United States",
+      "column": null,
+      "byline": "By Nicholas Kristof",
+      "type": "Article",
+      "title": "What Are Sperm Telling Us?",
+      "abstract": "Scientists are concerned by falling sperm counts and declining egg quality. Endocrine-disrupting chemicals may be the problem.",
+      "des_facet": [
+        "Reproduction (Biological)",
+        "Infertility",
+        "Sperm",
+        "Endocrine Gland",
+        "United States Politics and Government",
+        "Regulation and Deregulation of Industry",
+        "Chemicals"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Swan, Shanna H"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": " SciePro/Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/20/opinion/20kristof/20kristof-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/20/opinion/20kristof/20kristof-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/20/opinion/20kristof/20kristof-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5b7db02b-9248-5fee-b91f-13954f52626e",
+      "url": "https://www.nytimes.com/2021/02/18/style/blue-light-glasses.html",
+      "id": 100000007571394,
+      "asset_id": 100000007571394,
+      "source": "New York Times",
+      "published_date": "2021-02-18",
+      "updated": "2021-02-23 09:30:21",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Eyeglasses;Eyes and Eyesight;Content Type: Service;Sleep;Research;Melatonin (Hormone);Computers and the Internet",
+      "column": null,
+      "byline": "By Valeriya Safronova",
+      "type": "Article",
+      "title": "When Did Everyone Get Blue-Light Glasses?",
+      "abstract": "\u201cComputer glasses\u201d are a booming category, thanks to increased screen time, but scientists say they don\u2019t do much.",
+      "des_facet": [
+        "Eyeglasses",
+        "Eyes and Eyesight",
+        "Content Type: Service",
+        "Sleep",
+        "Research",
+        "Melatonin (Hormone)",
+        "Computers and the Internet"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rashida Jones in a campaign for Zenni\u2019s Blokz glasses.",
+          "copyright": "Zenni",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/18/fashion/18BLUE-LIGHT-RASHIDA/18BLUE-LIGHT-RASHIDA-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/18/fashion/18BLUE-LIGHT-RASHIDA/18BLUE-LIGHT-RASHIDA-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/18/fashion/18BLUE-LIGHT-RASHIDA/18BLUE-LIGHT-RASHIDA-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/791fd709-72e6-52e6-a4cd-a2bfe532af8f",
+      "url": "https://www.nytimes.com/2021/02/20/us/colleges-covid-applicants.html",
+      "id": 100000007575545,
+      "asset_id": 100000007575545,
+      "source": "New York Times",
+      "published_date": "2021-02-20",
+      "updated": "2021-02-21 11:28:53",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Admissions Standards;Colleges and Universities;Coronavirus (2019-nCoV);SAT (College Admission Test);ACT (Examination);Private and Sectarian Schools;California State University;Cornell University;Common Application, The",
+      "column": null,
+      "byline": "By Amelia Nierenberg",
+      "type": "Article",
+      "title": "Interest Surges in Top Colleges, While Struggling Ones Scrape for Applicants",
+      "abstract": "Waiving standardized test requirements during the pandemic brought more hopefuls to the Ivy League and large state schools, while less-selective colleges face an alarming drop.",
+      "des_facet": [
+        "Admissions Standards",
+        "Colleges and Universities",
+        "Coronavirus (2019-nCoV)",
+        "SAT (College Admission Test)",
+        "ACT (Examination)",
+        "Private and Sectarian Schools"
+      ],
+      "org_facet": [
+        "California State University",
+        "Cornell University",
+        "Common Application, The"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Applications soared at Cornell University, which didn\u2019t require standardized test scores in the pandemic.",
+          "copyright": "Heather Ainsworth for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/18/us/00Virus-Collegeadmissions-new/merlin_170351250_9bb19418-0f66-4366-b23c-b62f988e289e-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/18/us/00Virus-Collegeadmissions-new/00Virus-Collegeadmissions-new-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/18/us/00Virus-Collegeadmissions-new/00Virus-Collegeadmissions-new-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/859e4ab9-4590-5b8f-a528-82c07b061954",
+      "url": "https://www.nytimes.com/2021/02/24/opinion/covid-icu-nurses-arizona.html",
+      "id": 100000007607062,
+      "asset_id": 100000007607062,
+      "source": "New York Times",
+      "published_date": "2021-02-24",
+      "updated": "2021-02-24 06:01:00",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Nursing and Nurses;Phoenix (Ariz);United States",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "Death, Through a Nurse\u2019s Eyes",
+      "abstract": "A short film offering a firsthand perspective of the brutality of the pandemic inside a Covid-19 I.C.U.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Nursing and Nurses"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Phoenix (Ariz)",
+        "United States"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ad8d1f9f-4be2-58ad-b4e4-e238ae192940",
+      "url": "https://www.nytimes.com/2021/02/23/business/covid-vaccine-monkeys.html",
+      "id": 100000007582685,
+      "asset_id": 100000007582685,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-24 10:55:59",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Monkeys and Apes;Animal Abuse, Rights and Welfare;Wildlife Trade and Poaching;Research;Shortages;Coronavirus (2019-nCoV);International Trade and World Market;Vaccination and Immunization;National Institutes of Health;China",
+      "column": null,
+      "byline": "By Sui-Lee Wee and Bryan Tarnowski",
+      "type": "Article",
+      "title": "Future Vaccines Depend on Test Subjects in Short Supply: Monkeys",
+      "abstract": "The pandemic has highlighted the United States\u2019 dependence on China for research animals, reviving calls for a \u201cstrategic monkey reserve.\u201d",
+      "des_facet": [
+        "Monkeys and Apes",
+        "Animal Abuse, Rights and Welfare",
+        "Wildlife Trade and Poaching",
+        "Research",
+        "Shortages",
+        "Coronavirus (2019-nCoV)",
+        "International Trade and World Market",
+        "Vaccination and Immunization"
+      ],
+      "org_facet": [
+        "National Institutes of Health"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "China"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Veterinary techs distribute food every morning to more than 5,000 monkeys at the Tulane University National Primate Research Center outside New Orleans.",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/business/00china-monkeys-1/00china-monkeys-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/business/00china-monkeys-1/00china-monkeys-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/business/00china-monkeys-1/00china-monkeys-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
