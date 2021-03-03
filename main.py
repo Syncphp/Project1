@@ -1,6 +1,6 @@
 """
 ************************************************************************************************************************
-* Student Name: Rodny German                                                                                           *
+* Student Name: ""                                                                                           *
 * Project Name: Project 1 - Streamlit + New York Times API + JSON Documents                                            *
 * Due Date: 2/27/2021                                                                                                  *
 * Last Updated: 2/19/2021                                                                                              *
